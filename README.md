@@ -33,7 +33,7 @@ Em dispositivos móveis, os elementos são redimensionados e reorganizados para 
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/tela-de-loguin.git
+   https://github.com/CodeBy-Ryan/Tela-de-Loguin.git
    ```
 2. Navegue até o diretório do projeto:
    ```bash
