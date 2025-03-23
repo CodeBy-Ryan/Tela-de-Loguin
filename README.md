@@ -1,6 +1,6 @@
 # Tela de Loguin
 
-![Captura de Tela (45)](https://github.com/user-attachments/assets/815c1964-8933-4a1f-9148-4f3f4bd3efe4)
+![Image](https://github.com/user-attachments/assets/656cf112-2170-4cd4-9ddd-f0c19c0c8224)
 
 Uma tela de login responsiva desenvolvida com **HTML** e **CSS**.
 
