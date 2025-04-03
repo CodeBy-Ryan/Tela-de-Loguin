@@ -47,4 +47,4 @@ Este projeto está sob a licença MIT. Sinta-se à vontade para utilizá-lo e mo
 
 ---
 
-Se você gostou deste projeto, não esqueça de dar uma ⭐ no repositório!
+Se você gostou deste projeto, não esqueça de dar uma ⭐ no repositório vai me ajudar bastante!
