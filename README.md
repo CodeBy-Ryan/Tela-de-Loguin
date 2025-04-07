@@ -2,7 +2,7 @@
 
 ![Image](https://github.com/user-attachments/assets/656cf112-2170-4cd4-9ddd-f0c19c0c8224)
 
-Uma tela de login responsiva desenvolvida com **HTML** e **CSS**.
+Uma TELA DE LOGUIN responsiva desenvolvida com **HTML** e **CSS**.
 
 ## 📋 Descrição
 
